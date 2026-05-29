@@ -1,0 +1,11 @@
+id,produto,categoria,preco,quantidade,data
+1,Notebook,Eletronicos,3500,2,2024-01-10
+2,Mouse,Eletronicos,80,5,2024-01-11
+3,Teclado,Eletronicos,150,3,2024-01-11
+4,Cadeira,Moveis,900,1,2024-01-12
+5,Mesa,Moveis,1200,1,2024-01-12
+6,Fone,Eletronicos,200,4,2024-01-13
+7,Monitor,Eletronicos,1800,2,2024-01-14
+8,Luminaria,Moveis,120,3,2024-01-15
+9,HD Externo,Eletronicos,400,2,2024-01-16
+10,Webcam,Eletronicos,250,3,2024-01-17
